@@ -33,11 +33,4 @@
 
 ---
 
-## 🛠️ Getting Started  
 
-### 🔹 Installation & Setup  
-1️⃣ Clone the repository  
-```bash
-git clone https://github.com/your-username/nlp-practice.git
-cd nlp-practice
-```
